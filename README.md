@@ -1,6 +1,6 @@
 # SpamClassification
 
-## Cel
+## Cel laboratorium
 
 - Sklasyfikowanie wiadomości jako spam lub nie-spam
 - Dostrojenie parametrów klasyfikatora
